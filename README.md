@@ -1,3 +1,11 @@
-# STUFF
+====================================
+============= READ ME ==============
+====================================
+====================================
+=================== Aug 19. 2015 ===
+============= CREATED BY Yoonsun ===
+====================================
+=================== version 0.01 ===
 
-isotype = international system of typographic picture education 
+1. working with people in the sf office 
+2. use jira 
