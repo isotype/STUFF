@@ -1,4 +1,4 @@
-##Displaying images on Newsfeed, Products on UNDEFINED
+##Displaying images on Newsfeed, Products 
 
 We show images uploaded by users on the following areas.
 
