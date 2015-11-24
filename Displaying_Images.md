@@ -63,5 +63,6 @@ No. | Real Image Size | Display Image Size (Maximum: width 568px x height 758px)
 ###Rules on a product detail 
 The same as rules on Newsfeed but when clicking an image the larger image pops up. 
 Products can have 5 images but by design only 1 image can be enlarged (600 x 800) 
-and the other 4 images are shown as small. Without the image viewer function (seeing large images by clicking)
+and the other 4 images are shown as small. Without the image viewer function (seeing large images by clicking) the current design doesn't look functional.
+But I don't think we have much time to add the image viewer function on the product detail page. The image viewer function will be added after the launch(10/30). 
 
