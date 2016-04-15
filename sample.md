@@ -35,7 +35,7 @@ Clients | Only the clients group of John can see Product A
 Suppliers | Only the suppliers group of John can see Product A 
 Friends | Only the friends group of John can see Product A
 Colleagues | Only the colleagues group of John can see Product A 
-Public | All bizlol.com users can see Product A 
+Public | All users can see Product A 
 
 
 
