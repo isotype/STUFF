@@ -56,7 +56,7 @@ Clients | John, Tom
 Suppliers | John
 Friends | John, Sara 
 Colleagues | John, Derek 
-Public | John, Tom, Chris, Sara, Derek, Nick and other bizlol.com users 
+Public | John, Tom, Chris, Sara, Derek, Nick and other users 
 
 
 
