@@ -3,7 +3,7 @@ Words | Description
 --- | --- 
 Update | Users can post updates on Newsfeed. ex) sharing articles, links and text on Newsfeed
 Product | It's a good/service that users can add by clicking Add a Product. A product can be tangible or intangible.  
-User(s) | People who have signed up at bizlol.com 
+User(s) | People who have signed up at webaddress.com 
 People | People who aren't our users 
 Connection(s) | A user connects with other users (like facebook's friend or linkedin's connection) 
 Product owner(s) | A user adds products at first.   
